@@ -28,7 +28,7 @@
   </a>
 
   <!-- Coding Ninjas -->
-  <a href="https://www.codingninjas.com/studio/profile/Nikunj_01" target="blank">
+  <a href="https://www.naukri.com/code360/profile/Heyserri" target="blank">
     <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/codingninjas-3629284-3032080.png" alt="Coding Ninjas" height="30" width="30" />
   </a>
 

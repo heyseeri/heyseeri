@@ -59,3 +59,16 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heyseeri&show_icons=true&locale=en" alt="heyseeri" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heyseeri&" alt="heyseeri" /></p>
+
+<h3 align="left">🌍 About Me as a Travel Consultant</h3>
+
+<p align="left">
+  Besides exploring data, I explore the world! I'm the proud <strong>Founder of Wanderova</strong> — a personalized travel consultancy helping people experience Europe and beyond on their own terms. ✈️🌍  
+</p>
+
+<p align="left">
+  I believe travel is not just about destinations — it's about freedom, flexibility, and unforgettable experiences. At Wanderova, I help travelers skip the group tours and design their own path, with guidance every step of the way.
+</p>
+
+
+<p align="center"><strong>✨ Freedom Starts Here — with Wanderova ✨</strong></p>
